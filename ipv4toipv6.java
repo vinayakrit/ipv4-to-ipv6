@@ -1,7 +1,7 @@
 // vinayakrit
 // Vinayak Patil
 // java code for ipv4 to ipv6 compatible
-
+// Note : Currently this program not working. Stay tunned it will be workable soon.
 /*
 198%16 = 6
 198%10 = 12 => c
